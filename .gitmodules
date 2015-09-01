@@ -1,0 +1,3 @@
+[submodule "BackupMinder-Recipe"]
+	path = BackupMinder-Recipe
+	url = git@github.com:backupminder/BackupMinder-Recipe.git
